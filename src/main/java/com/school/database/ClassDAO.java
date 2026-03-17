@@ -1,7 +1,6 @@
 package com.school.database;
 
 import com.school.model.SchoolClass;
-import com.school.model.Subject;
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
